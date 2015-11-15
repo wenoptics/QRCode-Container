@@ -2,8 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b25d4150-682f-48e6-b856-7e11df7bf884" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/python文档/推送云/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/python文档/数据云/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/python文档/统计云/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/config/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloudCore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/config/apicloud_config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/dataCloud.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/group_GPIO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/main_process_flow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/statistic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/testDataCloud.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloud_python_sdk/testStatistics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/test_GPIO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/test_class_convert.py" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\code_on_raspi.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\dictionaries\wenop_000.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\core\lc.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\test_daemon.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\WorkSpace\synthPRJ\WuLiuZiQuXiang\py\QRCode-Container\code_on_raspi_apicloud\test_leanCloud.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code_on_raspi_apicloud" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloudCore.py" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/apicloudCore.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code_on_raspi_apicloud/process-and-query.py" afterPath="$PROJECT_DIR$/code_on_raspi_apicloud/process-and-query.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="QRCode-Container.iws" />
@@ -27,10 +58,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="apicloud_config.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="apicloud_config.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/config/apicloud_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_GPIO.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/test_GPIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -65,7 +106,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code_on_raspi_apicloud" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -106,7 +147,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,6 +199,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,29 +354,35 @@
       <created>1447578284850</created>
       <updated>1447578284850</updated>
     </task>
+    <task id="LOCAL-00001" summary="old prj imported">
+      <created>1447579054918</created>
+      <updated>1447579054918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="722" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -354,16 +401,41 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="old prj imported" />
+    <option name="LAST_COMMIT_MESSAGE" value="old prj imported" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/config/apicloud_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/apicloudCore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1084" max-vertical-offset="3060">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/fabfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/main_process_flow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -371,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -379,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3024">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,15 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/test_GPIO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -403,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1061" max-vertical-offset="1386">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -411,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4124087" vertical-offset="864" max-vertical-offset="6894">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19251336" vertical-offset="0" max-vertical-offset="882">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="367">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12834224" vertical-offset="0" max-vertical-offset="882">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +520,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/config/apicloud_config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_on_raspi_apicloud/test_GPIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
