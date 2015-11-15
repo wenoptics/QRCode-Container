@@ -52,5 +52,7 @@ def p2_receiver(code):
     return (None, ret)
 
 
-p1_deliver()
-#p2_receiver()
+
+if __name__ == "__main__":
+    p1_deliver()
+    #p2_receiver()

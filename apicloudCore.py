@@ -1,5 +1,5 @@
 # coding: utf-8
-from code_on_raspi_apicloud.config import apicloud_config
+from config import apicloud_config
 
 __author__ = 'wenop'
 
