@@ -30,7 +30,7 @@ def p1_deliver():
         time.sleep(0.5)
     print 'container closed.'
 
-    entry = store_package_in_container(package, container)
+    entry = OLDstore_package_in_container(package, container)
 
     storageCode = entry.get('code')
     if storageCode:
